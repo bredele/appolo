@@ -1,0 +1,68 @@
+/* line 1, ../sass/reset.scss */
+html {
+  font: 81.25% arial, helvetica, sans-serif; }
+
+/* line 4, ../sass/reset.scss */
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0; }
+
+/* line 10, ../../../../../../../../Library/Ruby/Gems/1.8/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/layout/_sticky-footer.scss */
+html, body {
+  height: 100%; }
+
+/* line 12, ../../../../../../../../Library/Ruby/Gems/1.8/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/layout/_sticky-footer.scss */
+.layout {
+  clear: both;
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  margin-bottom: -42px; }
+  /* line 18, ../../../../../../../../Library/Ruby/Gems/1.8/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/layout/_sticky-footer.scss */
+  .layout .layout-footer {
+    height: 42px; }
+
+/* line 20, ../../../../../../../../Library/Ruby/Gems/1.8/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/layout/_sticky-footer.scss */
+.footer {
+  clear: both;
+  position: relative;
+  height: 42px; }
+
+/* line 10, ../sass/index.scss */
+.header {
+  background: #fafafa;
+  height: 42px;
+  border-bottom: 1px solid #E5E5E5;
+  -webkit-box-shadow: inset rgba(0, 0, 0, 0.06) 0 0 5px 0px;
+  -moz-box-shadow: inset rgba(0, 0, 0, 0.06) 0 0 5px 0px;
+  box-shadow: inset rgba(0, 0, 0, 0.06) 0 0 5px 0px; }
+
+/* line 18, ../sass/index.scss */
+.footer {
+  background: #fafafa;
+  border-top: 1px solid #E5E5E5;
+  -webkit-box-shadow: inset rgba(0, 0, 0, 0.08) 0 0 5px 0px;
+  -moz-box-shadow: inset rgba(0, 0, 0, 0.08) 0 0 5px 0px;
+  box-shadow: inset rgba(0, 0, 0, 0.08) 0 0 5px 0px; }
+
+/* line 24, ../sass/index.scss */
+.footer-links {
+  list-style: none;
+  color: #999;
+  float: left;
+  max-width: 80%; }
+
+/* line 31, ../sass/index.scss */
+.footer-links li {
+  display: inline;
+  padding: 0 1.5em 0 0; }
+
+/* line 36, ../sass/index.scss */
+.select-lang {
+  float: right;
+  margin-right: 10px; }
+
+/* line 41, ../sass/index.scss */
+.login {
+  height: 400px; }

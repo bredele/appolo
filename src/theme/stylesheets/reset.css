@@ -1,0 +1,9 @@
+/* line 1, ../sass/reset.scss */
+html {
+  font: 81.25% arial, helvetica, sans-serif; }
+
+/* line 4, ../sass/reset.scss */
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0; }

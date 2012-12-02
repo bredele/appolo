@@ -1,0 +1,42 @@
+{
+  "name": "Appolo",
+  "description": "Appolo",
+  "version": "0.1.0",
+  "homepage": "http://$",
+  "author": {
+    "name": "Olivier Wietrich",
+    "contributors" : "",
+    "url": "http://bredele.github.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/$.git"
+  },
+  "bugs": {
+    "url": "https://$/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://$/LICENSE"
+    }
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "~0.2.1"
+  },
+  "keywords": [
+    "patch",
+    "hook",
+    "function",
+    "debug",
+    "aop"
+  ],
+  "engines": {
+    "node": "*"
+  },
+  "main": "lib/hooker",
+  "scripts": {
+    "test": "grunt test"
+  }
+}
